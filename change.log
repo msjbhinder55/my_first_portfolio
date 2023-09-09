@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+                                  <!--Title-->
+                   <head>
+                     <title> Muhammad Saad Javed - CV </title>
+                    </head>
+
+                                            
+  <body style="background-color:WhiteSmoke"><!--For Full WhiteSmoke Backgrouund Colour-->
+
+
+                                                 <!--For Sided Border-->
+    <div style=" margin-top: 5px; margin-bottom: 150px; margin-right: 200px; margin-left: 200px; border-padding:400px; border-style: groove; border-width: 4px; border-height:4px; box-shadow: 2px 5px 20px #888888"> <!--A-->
+
+
+                                                <!--Introduction-->
+                                                      <!--B-->
+        <div style="background-color:#ebebe0; padding: 10px"><!--For Grey Backgrouund Colour-->
+
+                                                    <!--For Name-->        
+          <div style=" margin-top: 50px; margin-bottom: 0px; margin-right: 0px; margin-left: 50px"> 
+            <h1 style="text-align:left; font-size:300% ;font-family:Calibri Light"> Hello! I'm Muhammad Saad Javed </h1>
+          </div>
+                                      <!--Software Developer || www.msjbhinder.com-->
+            <div style=" margin-top: -20px; margin-bottom: 0px; margin-right: 0px; margin-left: 50px"> 
+              <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:4px; font-weight:bolder"> Software Developer || www.msjbhinder.com </h2>
+            </div>
+
+                                                       <!--BioData-->
+              <div style=" margin-top: -10px; margin-bottom: 100px; margin-right: 0px; margin-left: 50px">
+                <p style="text-align:left; ; font-size:100% ; font-family:Calibri Light">
+                  <br> Ch.Muhammad Rafique Bhinder Numberdar (Late), </br>
+                  <br> Chak No 55 GB Tehsil Jaranwala, District Faisalabad.</br>
+                  <br> 0343-5753740 || msjbhinder@gmail.com</br>
+                  <br> Facebook: @msjbhinder || Twitter: @msjbhinder</br>
+                </p>
+              </div>
+
+
+                                                        <!--Picture-->
+          <div style="vertical-align:right; margin:-280px 0px 5px 650px">
+            <a href="https://web.facebook.com/muhammadsaadjavedbhinder" target="-blank"> 
+              <img src="msjbhinder1.jpg" alt="msjbhinder" width="155" height="220" style="border:1px solid black" >
+            </a> 
+          </div>
+
+        </div> 
+                                                     <!--B-->
+
+
+
+                                                     <!--C-->
+
+      <div style="background-color:white; padding: 5px"><!--For white Backgrouund Colour-->
+
+
+                                                  <!--OBJECTIVE-->
+        <div style=" margin-top: 40px; margin-bottom: -30px; margin-right: 0px; margin-left: 740px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> OBJECTIVE ||</h2>
+        </div>
+
+            <hr style="height:1px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:30px "><!--Horizontal Line-->
+
+      <div style=" margin-top: -15px; margin-bottom: 5px; margin-right: 45px; margin-left: 45px"> 
+
+        <p>Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p> 
+      </div>
+
+                                                  <!--KEY PROJECTS-->
+      <div style=" margin-top: 40px; margin-bottom: -30px; margin-right: 0px; margin-left: 712px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> KEY PROJECTS ||</h2>
+      </div>
+
+             <hr style="height:1px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:30px "><!--Horizontal Line-->
+
+ 
+                                                  <!--Left Hand Box-->
+        <div style="background-color: #99ffff; margin-top: 5px; margin-bottom: 100px; margin-right: 0px; margin-left: 45px; width:380px; height:115px">
+
+          <div style="margin-top:30px; margin-bottom: 0px; margin-right: 20px; margin-left: 20px"> 
+            <p>I have established a customer bespoke ticket booking system, which makes ticket booking work and handles queries for availability / other standard inquiries. This saved the client from hiring five more people to deal with the volume of questions. </p>
+          </div>
+        </div>
+                                                  <!--Right Hand Box-->
+        <div style="background-color: #99ffff; margin-top: 5px; margin-bottom: 100px; margin-right: 0px; margin-left: 480px; width:380px; height:115px">
+
+          <div style=" margin-top:-213px; margin-bottom: 0px; margin-right: 20px; margin-left: 20px"> 
+            <p>I have established a Complaint Management System which is convert emails into complaints and distribute the automatically. This followed up complaints closure, with a high degree of automation, is maintained the employer must hire two new people.</p>
+          </div>
+        </div>
+
+
+                                                               <!--KEY SKILLS-->
+      <div style=" margin-top: -60px; margin-bottom: -30px; margin-right: 0px; margin-left: 742px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> KEY SKILLS ||</h2>
+      </div>
+
+               <hr style="height:1px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:30px "><!--Horizontal Line-->
+               
+
+                                                  <!--Left Hand Lists-->
+        <div style=" margin-top: 10px; margin-bottom: 15px; margin-right: 0px; margin-left: 40px">
+          <ul>
+            <li>PHP and Laravel</li>
+             <li>OOP and MVC principles</li>
+              <li>Javascript</li>
+               <li>HTML and CSS</li>
+                <li>CMS – Magento, Drupal, Wordpress, Joomla</li>
+                 <li>Version Control - Git</li>
+                 <li>Bootstrap / jQuery</li>
+                  <li>SASS/LESS</li>
+                   <li>Experience of building and integrating with</li>
+                  <li>PHP</li>
+                 <li>Data Structures</li>
+                <li>Machine Learning</li>
+               <li>Debugging</li>
+              <li>Web Development</li>
+            </ul>  
+        </div>
+      </div>
+                                               <!--Right Hand Lists-->
+
+        <div style=" margin-top: -290px; margin-bottom: 15px; margin-right: 50px; margin-left: 410px">
+         <ul>
+          <li>Worked on the project to reduce the e2e new sales time from 17 mins to 3 mins in a major communications company</li>
+          <li>Led a team up-to 16 developers</li>
+          <li>Managed a development team divided between 3 locations in 2 countries</li>
+          <li>Developed the technical skills of countless new joiners (ok,15 new joiners)</li>
+          <li>Acted as a career counseler to 6 colleague</li>
+          <li>Ability to develop and maintain front and backend code to a high standard and to agreed timescales</li>
+          <li>Ability to review other developers' solutions and code</li>
+          <li>Ability to provide clear regular progress updates to managers and stakeholders</li>
+          <li>Ability to produce comprehensive documentation</li>
+          <li>Able to act as first-line technical support forissues and bugs</li>
+         </ul>
+        </div>
+                                                    
+                                                    <!--QUALIFICATIONS-->
+        <div style=" margin-top: 50px; margin-bottom: -30px; margin-right: 0px; margin-left: 690px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> QUALIFICATIONS ||</h2>
+        </div>
+
+        <hr style="height:1px ;width:850px; color:##00ace6; background-color:#00ace6; margin:30px"><!--Horizontal Line-->
+        <hr style="height:20px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:-10px 30px"><!--Horizontal Line-->
+
+        <div style=" margin-top: -35px; margin-bottom: -30px; margin-right: 0px; margin-left: 530px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> Fast NUCES, Faisalabd-Chinot Campus</h2>
+        </div>
+
+      <div style=" margin-top: -32px; margin-bottom: -30px; margin-right: 0px; margin-left: 50px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> BS(Software Engineering)</h2>
+      </div>
+
+        <div style="margin-top:60px; margin-bottom: 70px; margin-right: 45px; margin-left: 45px"> 
+          <p>Modules covered included Artificial Intelligence, Data Structures and Algorithms, Logic and Computation, Object Oriented Programming, Full Stack Application Development, Human-Computer Interaction, Intelligent Robotics, Machine Learning and Intelligent Data Analysis, Security of Real-World Systems and Theoretical Foundations for Security.</p>
+        </div>
+
+                                                     <!--WORK EXPERIENCE-->
+        <div style=" margin-top: 10px; margin-bottom: -30px; margin-right: 0px; margin-left: 670px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> WORK EXPERIENCE ||</h2>
+        </div>
+
+        <hr style="height:1px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:30px "><!--Horizontal Line-->
+        <hr style="height:20px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:-10px 30px "><!--Horizontal Line-->
+                                                   
+
+                                                   <!-- BHINDER TECH,LAHORE : 2014 - 2017-->
+        <div style=" margin-top: -35px; margin-bottom: -30px; margin-right: 0px; margin-left: 540px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> BHINDER TECH,LAHORE : 2014 - 2017 </h2>
+        </div>
+
+
+      <div style=" margin-top: -32px; margin-bottom: -30px; margin-right: 0px; margin-left: 50px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> PHP DEVELOPER</h2>
+      </div>
+
+      <div style="margin-top:60px; margin-bottom: 25px; margin-right: 45px; margin-left: 45px"> 
+          <p>My role at this company was to assist with supporting software systems, develop new features / projects, and provide occasional hardware support. Part of an in-house team, my responsibilities also included:</p>
+      </div>
+
+        <div style=" margin-top: 1px; margin-bottom: 15px; margin-right: 0px; margin-left: 60px">
+         <ul>
+          <li>Managed the Siebel CRM Development team</li>
+          <li>Acted as a contact point between the technical team, functional team and the test teams</li>
+          <li>Performed requirements analysis, design, development and test management of monthly 100 M/D releases</li>
+          <li>Estimated, performed feasibility analysis and forecast risks and planned the delivery for new requirements</li>
+          <li>Contributed to each project delivery phase (analysis,development,test,ops) in different roles</li>
+          <li>Delivered new features in both Agile and SDLC life-cycles</li>
+          <li>Established self as a CRM Expert and gained trust of clients</li>
+          <li>Automated build, delivery and release of Siebel packages</li>
+         </ul>
+        </div>
+
+                                          <!--RAFIQUE SOFTWARE HOUSE,LAHORE : 2018 - 2020-->
+          
+        <hr style="height:20px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:40px 30px "><!--Horizontal Line-->
+
+        <div style=" margin-top: -60px; margin-bottom: 10px; margin-right: 0px; margin-left: 425px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> RAFIQUE SOFTWARE HOUSE,LAHORE : 2018 - 2020 </h2>
+        </div>
+
+
+      <div style=" margin-top: -32px; margin-bottom: -30px; margin-right: 0px; margin-left: 50px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> PHP DEVELOPER</h2>
+      </div>
+
+      <div style="margin-top:60px; margin-bottom: 50px; margin-right: 45px; margin-left: 45px"> 
+        <p>Working for this digital agency, I was responsible for scoping, estimating and testing websites and web-based software for clients. Working as part of a team, I created, developed and finalised projects, many of which were used on a day-to-day by millions of people. I worked closely with the different teams including design, project management and sales to ensure the end result was perfect for the client. This role was 4 days a week and I left for a full time position. </p>
+      </div>
+
+                                             <!--HOBBIES AND INTERESTS-->
+      <div style=" margin-top: 20px; margin-bottom: -30px; margin-right: 0px; margin-left: 620px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> HOBBIES AND INTERESTS ||</h2>
+      </div>
+
+        <hr style="height:1px ;width:850px ; color:##00ace6; background-color:#00ace6; margin:30px "><!--Horizontal Line-->
+                                          
+
+                                              <!--Left Hand Lists-->
+        <div style=" margin-top: 25px; margin-bottom: 500px; margin-right: 0px; margin-left: 150px">
+          <ul>
+           <li>Books Reading</li>
+           <li>Video Gaming</li>
+           <li>FootBall Game</li>
+           <li>Gardening</li>
+          </ul>  
+        </div>
+      </div>
+                                               <!--Right Hand Lists-->
+
+        <div style=" margin-top: -720px; margin-bottom: 100px; margin-right: 0px; margin-left: 700px">
+          <ul>
+           <li>Graphic Designing</li>
+           <li>Karate</li>
+           <li>Creativity</li>
+        </div>
+
+                                              <!--Reference-->
+
+        <div style=" margin-top: -40px; margin-bottom: -30px; margin-right: 0px; margin-left: 950px">
+          <h2 style="text-align:left; font-size:100%; font-family:Calibri Light; letter-spacing:3px; font-weight:bolder"> REFERENCE ||</h2>
+        </div>
+
+        <hr style="height:1px ;width:1070px ; color:##00ace6; background-color:#00ace6; margin:30px "><!--Horizontal Line-->
+
+                                                   <!--Left Hand Lists-->
+        <div style=" margin-top: -10px; margin-bottom: -100px; margin-right: 0px; margin-left: 300px">
+          <p style="text-align:left; ; font-size:100% ; font-family:Calibri Light">
+            <br>GFX Mentor</br>
+            <br>Karachi</br>
+            <br> 0343-5753740 || msjbhinder232@gmail.com</br>
+            <br> Facebook: @msjbhinder || Twitter: @msjbhinder</br>
+            </p>
+        </div>
+
+                                                    <!--Right Hand Lists-->
+
+        <div style=" margin-top:-160px; margin-bottom: -300px; margin-right: 0px; margin-left: 700px">
+          <p style="text-align:left; ; font-size:100% ; font-family:Calibri Light">
+            <br>Adobe World</br>
+            <br>Lahore</br>
+            <br> 0343-5753740 || mfahadbhinder@gmail.com</br>
+            <br> Facebook: @msjbhinder || Twitter: @msjbhinder</br>
+            </p>
+        </div>
+
+    </div> <!--A-->
+  </body> 
+</html>
